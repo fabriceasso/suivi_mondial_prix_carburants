@@ -1,0 +1,12 @@
+node_modules/
+/.next/
+dist/
+.env
+*.local
+frontend/.next/
+backend/fuel_prices.db
+backend/*.db
+*.log
+npm-debug.log*
+.DS_Store
+coverage/

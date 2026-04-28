@@ -1,0 +1,682 @@
+[
+  {
+    "text": "Libye",
+    "href": "/Libya/gasoline_prices/"
+  },
+  {
+    "text": "Iran",
+    "href": "/Iran/gasoline_prices/"
+  },
+  {
+    "text": "Venezuela",
+    "href": "/Venezuela/gasoline_prices/"
+  },
+  {
+    "text": "Angola",
+    "href": "/Angola/gasoline_prices/"
+  },
+  {
+    "text": "Koweït*",
+    "href": "/Kuwait/gasoline_prices/"
+  },
+  {
+    "text": "Algérie*",
+    "href": "/Algeria/gasoline_prices/"
+  },
+  {
+    "text": "Turkménistan",
+    "href": "/Turkmenistan/gasoline_prices/"
+  },
+  {
+    "text": "Égypte*",
+    "href": "/Egypt/gasoline_prices/"
+  },
+  {
+    "text": "Qatar*",
+    "href": "/Qatar/gasoline_prices/"
+  },
+  {
+    "text": "Arabie Saoudite*",
+    "href": "/Saudi-Arabia/gasoline_prices/"
+  },
+  {
+    "text": "Oman*",
+    "href": "/Oman/gasoline_prices/"
+  },
+  {
+    "text": "Kazakhstan",
+    "href": "/Kazakhstan/gasoline_prices/"
+  },
+  {
+    "text": "Iraq",
+    "href": "/Iraq/gasoline_prices/"
+  },
+  {
+    "text": "Bahreïn*",
+    "href": "/Bahrain/gasoline_prices/"
+  },
+  {
+    "text": "Azerbaïdjan",
+    "href": "/Azerbaijan/gasoline_prices/"
+  },
+  {
+    "text": "Soudan",
+    "href": "/Sudan/gasoline_prices/"
+  },
+  {
+    "text": "Indonésie*",
+    "href": "/Indonesia/gasoline_prices/"
+  },
+  {
+    "text": "Équateur*",
+    "href": "/Ecuador/gasoline_prices/"
+  },
+  {
+    "text": "Tunisie*",
+    "href": "/Tunisia/gasoline_prices/"
+  },
+  {
+    "text": "Russie*",
+    "href": "/Russia/gasoline_prices/"
+  },
+  {
+    "text": "Niger",
+    "href": "/Niger/gasoline_prices/"
+  },
+  {
+    "text": "Émirats Arabes Unis*",
+    "href": "/United-Arab-Emirates/gasoline_prices/"
+  },
+  {
+    "text": "Nigéria",
+    "href": "/Nigeria/gasoline_prices/"
+  },
+  {
+    "text": "Éthiopie",
+    "href": "/Ethiopia/gasoline_prices/"
+  },
+  {
+    "text": "Viet Nam*",
+    "href": "/Vietnam/gasoline_prices/"
+  },
+  {
+    "text": "Guyane*",
+    "href": "/Guyana/gasoline_prices/"
+  },
+  {
+    "text": "République Kirghize",
+    "href": "/Kyrgyzstan/gasoline_prices/"
+  },
+  {
+    "text": "Bélarus*",
+    "href": "/Belarus/gasoline_prices/"
+  },
+  {
+    "text": "Afghanistan",
+    "href": "/Afghanistan/gasoline_prices/"
+  },
+  {
+    "text": "Bangladesh*",
+    "href": "/Bangladesh/gasoline_prices/"
+  },
+  {
+    "text": "Bolivie*",
+    "href": "/Bolivia/gasoline_prices/"
+  },
+  {
+    "text": "Syrie",
+    "href": "/Syria/gasoline_prices/"
+  },
+  {
+    "text": "Maldives",
+    "href": "/Maldives/gasoline_prices/"
+  },
+  {
+    "text": "Bhoutan",
+    "href": "/Bhutan/gasoline_prices/"
+  },
+  {
+    "text": "Japon*",
+    "href": "/Japan/gasoline_prices/"
+  },
+  {
+    "text": "D.R. Congo",
+    "href": "/Democratic-Republic-of-the-Congo/gasoline_prices/"
+  },
+  {
+    "text": "Gabon",
+    "href": "/Gabon/gasoline_prices/"
+  },
+  {
+    "text": "Taiwan*",
+    "href": "/Taiwan/gasoline_prices/"
+  },
+  {
+    "text": "Malaisie*",
+    "href": "/Malaysia/gasoline_prices/"
+  },
+  {
+    "text": "Paraguay*",
+    "href": "/Paraguay/gasoline_prices/"
+  },
+  {
+    "text": "Inde*",
+    "href": "/India/gasoline_prices/"
+  },
+  {
+    "text": "Colombie*",
+    "href": "/Colombia/gasoline_prices/"
+  },
+  {
+    "text": "Trinité-et-Tobago",
+    "href": "/Trinidad-and-Tobago/gasoline_prices/"
+  },
+  {
+    "text": "États-Unis*",
+    "href": "/USA/gasoline_prices/"
+  },
+  {
+    "text": "Madagascar*",
+    "href": "/Madagascar/gasoline_prices/"
+  },
+  {
+    "text": "Swaziland",
+    "href": "/Swaziland/gasoline_prices/"
+  },
+  {
+    "text": "Porto Rico*",
+    "href": "/Puerto-Rico/gasoline_prices/"
+  },
+  {
+    "text": "El Salvador*",
+    "href": "/El-Salvador/gasoline_prices/"
+  },
+  {
+    "text": "Curacao*",
+    "href": "/Curacao/gasoline_prices/"
+  },
+  {
+    "text": "Liban*",
+    "href": "/Lebanon/gasoline_prices/"
+  },
+  {
+    "text": "Togo",
+    "href": "/Togo/gasoline_prices/"
+  },
+  {
+    "text": "Grenade*",
+    "href": "/Grenada/gasoline_prices/"
+  },
+  {
+    "text": "Bénin*",
+    "href": "/Benin/gasoline_prices/"
+  },
+  {
+    "text": "Maurice*",
+    "href": "/Mauritius/gasoline_prices/"
+  },
+  {
+    "text": "Panama*",
+    "href": "/Panama/gasoline_prices/"
+  },
+  {
+    "text": "Suriname*",
+    "href": "/Suriname/gasoline_prices/"
+  },
+  {
+    "text": "Cuba",
+    "href": "/Cuba/gasoline_prices/"
+  },
+  {
+    "text": "Sainte-Lucie*",
+    "href": "/Saint-Lucia/gasoline_prices/"
+  },
+  {
+    "text": "Mozambique*",
+    "href": "/Mozambique/gasoline_prices/"
+  },
+  {
+    "text": "Pakistan*",
+    "href": "/Pakistan/gasoline_prices/"
+  },
+  {
+    "text": "Géorgie*",
+    "href": "/Georgia/gasoline_prices/"
+  },
+  {
+    "text": "Fidji*",
+    "href": "/Fiji/gasoline_prices/"
+  },
+  {
+    "text": "Nicaragua*",
+    "href": "/Nicaragua/gasoline_prices/"
+  },
+  {
+    "text": "Honduras*",
+    "href": "/Honduras/gasoline_prices/"
+  },
+  {
+    "text": "Namibie*",
+    "href": "/Namibia/gasoline_prices/"
+  },
+  {
+    "text": "Botswana",
+    "href": "/Botswana/gasoline_prices/"
+  },
+  {
+    "text": "Burundi",
+    "href": "/Burundi/gasoline_prices/"
+  },
+  {
+    "text": "Brésil*",
+    "href": "/Brazil/gasoline_prices/"
+  },
+  {
+    "text": "Rép. Dominicaine*",
+    "href": "/Dominican-Republic/gasoline_prices/"
+  },
+  {
+    "text": "Libéria",
+    "href": "/Liberia/gasoline_prices/"
+  },
+  {
+    "text": "Guinée",
+    "href": "/Guinea/gasoline_prices/"
+  },
+  {
+    "text": "Kenya*",
+    "href": "/Kenya/gasoline_prices/"
+  },
+  {
+    "text": "Costa Rica*",
+    "href": "/Costa-Rica/gasoline_prices/"
+  },
+  {
+    "text": "Aruba*",
+    "href": "/Aruba/gasoline_prices/"
+  },
+  {
+    "text": "Jamaïque*",
+    "href": "/Jamaica/gasoline_prices/"
+  },
+  {
+    "text": "Afrique du Sud*",
+    "href": "/South-Africa/gasoline_prices/"
+  },
+  {
+    "text": "Turquie*",
+    "href": "/Turkey/gasoline_prices/"
+  },
+  {
+    "text": "Chine*",
+    "href": "/China/gasoline_prices/"
+  },
+  {
+    "text": "Ouganda",
+    "href": "/Uganda/gasoline_prices/"
+  },
+  {
+    "text": "Lesotho*",
+    "href": "/Lesotho/gasoline_prices/"
+  },
+  {
+    "text": "Ghana*",
+    "href": "/Ghana/gasoline_prices/"
+  },
+  {
+    "text": "Zambie*",
+    "href": "/Zambia/gasoline_prices/"
+  },
+  {
+    "text": "Guatemala*",
+    "href": "/Guatemala/gasoline_prices/"
+  },
+  {
+    "text": "Sri Lanka*",
+    "href": "/Sri-Lanka/gasoline_prices/"
+  },
+  {
+    "text": "Australie*",
+    "href": "/Australia/gasoline_prices/"
+  },
+  {
+    "text": "Haïti",
+    "href": "/Haiti/gasoline_prices/"
+  },
+  {
+    "text": "Bahamas",
+    "href": "/Bahamas/gasoline_prices/"
+  },
+  {
+    "text": "Côte d'Ivoire*",
+    "href": "/Ivory-Coast/gasoline_prices/"
+  },
+  {
+    "text": "Arménie",
+    "href": "/Armenia/gasoline_prices/"
+  },
+  {
+    "text": "Tanzanie*",
+    "href": "/Tanzania/gasoline_prices/"
+  },
+  {
+    "text": "Népal*",
+    "href": "/Nepal/gasoline_prices/"
+  },
+  {
+    "text": "Seychelles",
+    "href": "/Seychelles/gasoline_prices/"
+  },
+  {
+    "text": "Canada*",
+    "href": "/Canada/gasoline_prices/"
+  },
+  {
+    "text": "Cap-Vert*",
+    "href": "/Cape-Verde/gasoline_prices/"
+  },
+  {
+    "text": "Corée du Sud*",
+    "href": "/South-Korea/gasoline_prices/"
+  },
+  {
+    "text": "Cameroun*",
+    "href": "/Cameroon/gasoline_prices/"
+  },
+  {
+    "text": "Burkina Faso*",
+    "href": "/Burkina-Faso/gasoline_prices/"
+  },
+  {
+    "text": "Argentine*",
+    "href": "/Argentina/gasoline_prices/"
+  },
+  {
+    "text": "Dominique",
+    "href": "/Dominica/gasoline_prices/"
+  },
+  {
+    "text": "Mongolie",
+    "href": "/Mongolia/gasoline_prices/"
+  },
+  {
+    "text": "Cambodge*",
+    "href": "/Cambodia/gasoline_prices/"
+  },
+  {
+    "text": "Mali",
+    "href": "/Mali/gasoline_prices/"
+  },
+  {
+    "text": "Nord Мacédoine*",
+    "href": "/Macedonia/gasoline_prices/"
+  },
+  {
+    "text": "Îles Caïmans*",
+    "href": "/Cayman-Islands/gasoline_prices/"
+  },
+  {
+    "text": "Myanmar*",
+    "href": "/Burma-Myanmar/gasoline_prices/"
+  },
+  {
+    "text": "Rwanda*",
+    "href": "/Rwanda/gasoline_prices/"
+  },
+  {
+    "text": "Malte*",
+    "href": "/Malta/gasoline_prices/"
+  },
+  {
+    "text": "Philippines*",
+    "href": "/Philippines/gasoline_prices/"
+  },
+  {
+    "text": "Mexique*",
+    "href": "/Mexico/gasoline_prices/"
+  },
+  {
+    "text": "Sénégal",
+    "href": "/Senegal/gasoline_prices/"
+  },
+  {
+    "text": "Pérou*",
+    "href": "/Peru/gasoline_prices/"
+  },
+  {
+    "text": "Maroc*",
+    "href": "/Morocco/gasoline_prices/"
+  },
+  {
+    "text": "Thaïlande*",
+    "href": "/Thailand/gasoline_prices/"
+  },
+  {
+    "text": "Jordanie*",
+    "href": "/Jordan/gasoline_prices/"
+  },
+  {
+    "text": "Pologne*",
+    "href": "/Poland/gasoline_prices/"
+  },
+  {
+    "text": "Chili*",
+    "href": "/Chile/gasoline_prices/"
+  },
+  {
+    "text": "Ukraine*",
+    "href": "/Ukraine/gasoline_prices/"
+  },
+  {
+    "text": "La Moldavie*",
+    "href": "/Moldova/gasoline_prices/"
+  },
+  {
+    "text": "Bosnie-Herzégovine*",
+    "href": "/Bosnia-and-Herzegovina/gasoline_prices/"
+  },
+  {
+    "text": "Bulgarie*",
+    "href": "/Bulgaria/gasoline_prices/"
+  },
+  {
+    "text": "Sierra Leone*",
+    "href": "/Sierra-Leone/gasoline_prices/"
+  },
+  {
+    "text": "Saint-Marin",
+    "href": "/San-Marino/gasoline_prices/"
+  },
+  {
+    "text": "Chypre*",
+    "href": "/Cyprus/gasoline_prices/"
+  },
+  {
+    "text": "Espagne*",
+    "href": "/Spain/gasoline_prices/"
+  },
+  {
+    "text": "Monténégro*",
+    "href": "/Montenegro/gasoline_prices/"
+  },
+  {
+    "text": "Barbade*",
+    "href": "/Barbados/gasoline_prices/"
+  },
+  {
+    "text": "îles Wallis et Futuna*",
+    "href": "/Wallis-and-Futuna-Islands/gasoline_prices/"
+  },
+  {
+    "text": "Rép. Centrafricaine",
+    "href": "/Central-African-Republic/gasoline_prices/"
+  },
+  {
+    "text": "Andorra*",
+    "href": "/Andorra/gasoline_prices/"
+  },
+  {
+    "text": "Laos*",
+    "href": "/Laos/gasoline_prices/"
+  },
+  {
+    "text": "Slovénie*",
+    "href": "/Slovenia/gasoline_prices/"
+  },
+  {
+    "text": "Serbie*",
+    "href": "/Serbia/gasoline_prices/"
+  },
+  {
+    "text": "Belize",
+    "href": "/Belize/gasoline_prices/"
+  },
+  {
+    "text": "Hongrie*",
+    "href": "/Hungary/gasoline_prices/"
+  },
+  {
+    "text": "Islande*",
+    "href": "/Iceland/gasoline_prices/"
+  },
+  {
+    "text": "Slovaquie*",
+    "href": "/Slovakia/gasoline_prices/"
+  },
+  {
+    "text": "Croatie*",
+    "href": "/Croatia/gasoline_prices/"
+  },
+  {
+    "text": "Ouzbékistan",
+    "href": "/Uzbekistan/gasoline_prices/"
+  },
+  {
+    "text": "République Tchèque*",
+    "href": "/Czech-Republic/gasoline_prices/"
+  },
+  {
+    "text": "Autriche*",
+    "href": "/Austria/gasoline_prices/"
+  },
+  {
+    "text": "Luxembourg*",
+    "href": "/Luxembourg/gasoline_prices/"
+  },
+  {
+    "text": "Uruguay*",
+    "href": "/Uruguay/gasoline_prices/"
+  },
+  {
+    "text": "Romania*",
+    "href": "/Romania/gasoline_prices/"
+  },
+  {
+    "text": "Lituanie*",
+    "href": "/Lithuania/gasoline_prices/"
+  },
+  {
+    "text": "Suède*",
+    "href": "/Sweden/gasoline_prices/"
+  },
+  {
+    "text": "Nouvelle-Zélande*",
+    "href": "/New-Zealand/gasoline_prices/"
+  },
+  {
+    "text": "Italie*",
+    "href": "/Italy/gasoline_prices/"
+  },
+  {
+    "text": "Lettonie*",
+    "href": "/Latvia/gasoline_prices/"
+  },
+  {
+    "text": "Estonie*",
+    "href": "/Estonia/gasoline_prices/"
+  },
+  {
+    "text": "Royaume-Uni*",
+    "href": "/United-Kingdom/gasoline_prices/"
+  },
+  {
+    "text": "Belgique*",
+    "href": "/Belgium/gasoline_prices/"
+  },
+  {
+    "text": "Irlande*",
+    "href": "/Ireland/gasoline_prices/"
+  },
+  {
+    "text": "Zimbabwe*",
+    "href": "/Zimbabwe/gasoline_prices/"
+  },
+  {
+    "text": "Portugal*",
+    "href": "/Portugal/gasoline_prices/"
+  },
+  {
+    "text": "Norvège*",
+    "href": "/Norway/gasoline_prices/"
+  },
+  {
+    "text": "Mayotte*",
+    "href": "/Mayotte/gasoline_prices/"
+  },
+  {
+    "text": "France*",
+    "href": "/France/gasoline_prices/"
+  },
+  {
+    "text": "Finlande*",
+    "href": "/Finland/gasoline_prices/"
+  },
+  {
+    "text": "Suisse*",
+    "href": "/Switzerland/gasoline_prices/"
+  },
+  {
+    "text": "Grèce*",
+    "href": "/Greece/gasoline_prices/"
+  },
+  {
+    "text": "Singapour*",
+    "href": "/Singapore/gasoline_prices/"
+  },
+  {
+    "text": "Albanie",
+    "href": "/Albania/gasoline_prices/"
+  },
+  {
+    "text": "Allemagne*",
+    "href": "/Germany/gasoline_prices/"
+  },
+  {
+    "text": "Monaco",
+    "href": "/Monaco/gasoline_prices/"
+  },
+  {
+    "text": "Liechtenstein*",
+    "href": "/Liechtenstein/gasoline_prices/"
+  },
+  {
+    "text": "Danemark*",
+    "href": "/Denmark/gasoline_prices/"
+  },
+  {
+    "text": "Israël*",
+    "href": "/Israel/gasoline_prices/"
+  },
+  {
+    "text": "Pays-Bas*",
+    "href": "/Netherlands/gasoline_prices/"
+  },
+  {
+    "text": "Malawi*",
+    "href": "/Malawi/gasoline_prices/"
+  },
+  {
+    "text": "Hong Kong*",
+    "href": "/Hong-Kong/gasoline_prices/"
+  }
+]
