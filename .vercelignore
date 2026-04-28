@@ -1,0 +1,8 @@
+# Exclude backend from Vercel deployment
+backend/
+node_modules/
+.git/
+.vscode/
+README_DEPLOY.md
+DEPLOYMENT_GIT_VERCEL.md
+render.yaml

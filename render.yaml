@@ -5,7 +5,6 @@ services:
     name: suivi-carburants-backend
     runtime: node
     region: frankfurt
-    plan: standard
     rootDir: backend
     buildCommand: npm install
     startCommand: node server.js
