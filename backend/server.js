@@ -2,7 +2,8 @@ const express = require('express');
 const cors = require('cors');
 const cron = require('node-cron');
 const db = require('./db');
-const { runScraper, seedFallbackData } = require('./scraper');
+const { runScraper } = require('./scraper');
+const { ensureData } = require('./seed');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -117,8 +118,8 @@ app.get('/api/health', (req, res) => {
 
 // ─── Startup ─────────────────────────────────────────────────────────────────
 async function start() {
-  // Remplissage des données de secours désactivé (on a déjà des données réelles)
-  // seedFallbackData();
+  // S'assurer que la base contient des données (CSV enrichi ou fallback)
+  ensureData();
 
   // Essai d'extraction en direct en arrière-plan (non bloquant)
   runScraper().catch(() => {});

@@ -1,0 +1,24 @@
+# Blueprint Render pour le backend Express + SQLite
+# Utilisation : Dashboard Render > Blueprints > New Blueprint > Connect repo
+services:
+  - type: web
+    name: suivi-carburants-backend
+    runtime: node
+    region: frankfurt
+    plan: standard
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: FRONTEND_URL
+        value: https://suivimondialprixcarburants.vercel.app
+      - key: DB_PATH
+        value: /data/fuel_prices.db
+      - key: PORT
+        value: 3001
+    disk:
+      name: suivi-data
+      mountPath: /data
+      sizeGB: 1
